@@ -1,0 +1,34 @@
+/* Home.css */
+
+#home {
+    text-align: center;
+    padding: 100px 20px;
+    background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%);
+    color: #fff;
+    border-radius: 15px;
+  }
+  
+  #home h1 {
+    font-size: 3em;
+    color: #fff;
+    margin-bottom: 20px;
+    animation: slideIn 1s ease-in-out;
+  }
+  
+  #home p {
+    font-size: 1.5em;
+    color: #fff;
+    animation: fadeIn 1.5s ease-in-out;
+  }
+  
+  @keyframes slideIn {
+    0% {
+      opacity: 0;
+      transform: translateY(-30px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  

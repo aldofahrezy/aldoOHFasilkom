@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aldoOHFasilkom/static/css/main.6dd20ebf.css",
+    "main.js": "/aldoOHFasilkom/static/js/main.8509dff8.js",
+    "index.html": "/aldoOHFasilkom/index.html",
+    "main.6dd20ebf.css.map": "/aldoOHFasilkom/static/css/main.6dd20ebf.css.map",
+    "main.8509dff8.js.map": "/aldoOHFasilkom/static/js/main.8509dff8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dd20ebf.css",
+    "static/js/main.8509dff8.js"
+  ]
+}
